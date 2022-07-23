@@ -4,7 +4,7 @@ Hi 👋 My name is Rohit Suryawanshi
 Full stack developer | Web 3.0 Enthusiast
 -----------------------------------------
 
-"A jack of all trades is a master of none, but oftentimes better than a master of one" This saying is very much related to me. In the initial phase of learning I tried to learn everything every language every tech which fascinates me and now here I'm working on Java spring & micro services to earn my bread and learning next.js and web 3.0 which I love.
+"A jack of all trades is a master of none, but oftentimes better than a master of one" This saying is very much related to me. In the initial phase of learning I tried to learn everything, every language ,every tech which fascinated me and now here I'm working on Java spring & micro services to earn my bread and learning next.js and web 3.0 which I love.
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [My Portfolio](http://suryadev.netlify.app)
