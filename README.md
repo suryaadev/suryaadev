@@ -10,7 +10,7 @@ Full stack developer | Web 3.0 Enthusiast
 *   🖥️  See my portfolio at [My Portfolio](http://suryadev.netlify.app)
 *   ✉️  You can contact me at [rsurya1760@gmail.com](mailto:rsurya1760@gmail.com)
 *   🚀  I'm currently working on [Payper Finance](http://payper-finance.netlify.com)
-*   🧠  I'm learning Next.js
+*   🧠  I'm learning Solidity
 *   🤝  I'm open to collaborating on Web 3.0 projects
 ### Skills
 <p align="left">
