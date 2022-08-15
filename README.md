@@ -1,15 +1,15 @@
-Hi 👋 My name is Rohit Suryawanshi
+Hi 👋 My name is Rohit Vijay Suryawanshi
 ==================================
 
-Full stack developer | Web 3.0 Enthusiast
+Full stack dev || learning solidity || web3 Enthusiast
 -----------------------------------------
 
-"A jack of all trades is a master of none, but oftentimes better than a master of one" This saying is very much related to me. In the initial phase of learning I tried to learn everything, every language ,every tech which fascinated me and now here I'm working on Java spring & micro services to earn my bread and learning next.js and web 3.0 which I love.
+I'm currently working as system engineer. Have good knowledge about react, Java spring boot, python and SQL. Exploring web3 space. Learnig solidity. Actively looking for smart contract interships or part time job.
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [My Portfolio](http://suryadev.netlify.app)
+*   🖥️  See my portfolio at [My Portfolio]
 *   ✉️  You can contact me at [rsurya1760@gmail.com](mailto:rsurya1760@gmail.com)
-*   🧠  I'm learning Solidity
+*   🧠  I'm learning Solidity 
 *   🤝  I'm open to collaborating on Web 3.0 projects
 ### Skills
 <p align="left">
