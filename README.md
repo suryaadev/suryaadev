@@ -7,8 +7,8 @@ Full stack dev || learning solidity || web3 Enthusiast
 I'm currently working as system engineer. Have good knowledge about react, Java spring boot, python and SQL. Exploring web3 space. Learnig solidity. Actively looking for smart contract interships or part time job.
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at <a href="suryadev.netlify.app">Portfolio</a>
-*   ✉️  You can contact me at [rsurya1760@gmail.com](mailto:rsurya1760@gmail.com)
+*   🖥️  See my portfolio at <a href="suryadev.netlify.app">Portfolio</a>(suryadev.netlify.app)
+*   ✉️  You can contact me at [rsurya1760@gmail.com](mailto:rsurya1760@gmail.com)
 *   🧠  I'm learning Solidity 
 
 ### Skills
