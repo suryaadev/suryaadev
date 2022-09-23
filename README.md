@@ -1,4 +1,4 @@
-Hi 👋 My name is Rohit Vijay Suryawanshi
+Hi 👋 My name is Rohit Suryawanshi
 ==================================
 
 Full stack Java dev || learning solidity || web3 Enthusiast
