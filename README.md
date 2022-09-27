@@ -1,7 +1,7 @@
 Hi 👋 My name is Rohit Suryawanshi
 ==================================
 
-Full stack Java dev || learning solidity || web3 Enthusiast
+Full stack Java dev || learning solidity
 -----------------------------------------
 
 I'm currently working as system engineer. Have good knowledge about react, Java spring boot, python and SQL. Exploring web3 space. Learnig solidity. Actively looking for smart contract interships or part time job.
