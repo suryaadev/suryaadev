@@ -7,7 +7,7 @@ learning solidity
 I'm currently working as system engineer. Having good knowledge about solidity next js. Blockchain enthusiat talks about web3. Actively looking foe opportunities in web3 space.
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at <a href="suryadev.netlify.app">Portfolio</a>(suryadev.netlify.app)
+*   🖥️  [See my portfolio at](https://suryaadev.netlify.app/)
 *   ✉️  You can contact me at [rsurya1760@gmail.com](mailto:rsurya1760@gmail.com)
 *   🧠  I'm learning Solidity 
 
