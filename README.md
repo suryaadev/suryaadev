@@ -9,7 +9,7 @@ I'm currently working as system engineer. Having good knowledge about solidity n
 *   🌍  I'm based in India
 *   🖥️  [See my portfolio at - suryaadev.netlify.app](https://suryaadev.netlify.app/)
 *   ✉️  You can contact me at [rsurya1760@gmail.com](mailto:rsurya1760@gmail.com)
-*   🧠  I'm learning Solidity 
+*   🧠  I'm learning Solidity || Nodejs
 
 ### Skills
 <p align="left">
