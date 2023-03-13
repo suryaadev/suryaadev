@@ -34,6 +34,3 @@ I'm currently working as system engineer. Having good knowledge about solidity n
 <a href="https://www.linkedin.com/in/suryaadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/suryadev_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/></a>
 </p>
-
-### <b>My GitHub Stats</b>
-<a href="http://www.github.com/suryaadev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaadev&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
