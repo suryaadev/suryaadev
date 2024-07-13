@@ -1,15 +1,14 @@
 Hi, 👋 My name is Rohit Vijay Suryawanshi.
 ==================================
 
-learning solidity | MERN stack development
+Java Spring boot developer
 -----------------------------------------
 
 I'm currently working as system engineer. Having good knowledge about solidity next js. Blockchain enthusiat talks about web3. Actively looking for opportunities in web3 space.
 
 *   🌍  I'm based in India
-*   🖥️  [See my portfolio at - suryaadev.netlify.app](https://suryaadev.netlify.app/)
 *   ✉️  You can contact me at [rsurya1760@gmail.com](mailto:rsurya1760@gmail.com)
-*   🧠  I'm learning Solidity || Nodejs
+*   🧠  I'm learning drinking coffee & JAVA
 
 ### Skills
 <p align="left">
