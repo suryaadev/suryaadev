@@ -4,11 +4,11 @@ Hi, 👋 My name is Rohit Vijay Suryawanshi.
 Java Spring boot developer
 -----------------------------------------
 
-I'm currently working as system engineer. Having good knowledge about solidity next js. Blockchain enthusiat talks about web3. Actively looking for opportunities in web3 space.
+I'm currently working as Senior System engineer. Having hands experience on Java Spring Boot Microservices. Love working working on backend application which handles critical task. 
 
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [rsurya1760@gmail.com](mailto:rsurya1760@gmail.com)
-*   🧠  I'm learning drinking coffee & JAVA
+*   ✉️  You can contact me at [rohitvijaysuryawanshi@gmail.com](mailto:rohitvijaysuryawanshi@gmail.com)
+*   🧠  Learning DevOps
 
 ### Skills
 <p align="left">
