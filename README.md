@@ -64,8 +64,8 @@
 
 ## 📬 Get in Touch
 
-- **LinkedIn:** [rohitsuryawanshi](https://linkedin.com/in/suryadevops)
-- **GitHub:** [suryadevops](https://github.com/suryadevops) _(recommended for DevOps branding)_
+- **LinkedIn:** [Rohit Suryawanshi](https://linkedin.com/in/suryaadev)
+- **GitHub:** [suryaadev](https://github.com/suryaadev)
 - **Email:** rohitvijaysuryawanshi@gmail.com
 
 ---
