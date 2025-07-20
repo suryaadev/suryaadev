@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohit Suryawanshi 👋</h1>
 
 <p align="center">
-  <b>Technical Analyst turned DevOps Engineer | "Jack of all trades" in tech | Passionate about Automation, Cloud, and Kubernetes</b>
+  <b>Technical Analyst turned DevOps Engineer | Passionate about Automation, Cloud, and Kubernetes</b>
 </p>
 
 ---
