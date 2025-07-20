@@ -1,35 +1,81 @@
-Hi, 👋 My name is Rohit Vijay Suryawanshi.
-==================================
+<h1 align="center">Hi, I'm Rohit Suryawanshi 👋</h1>
 
-Java Spring boot developer
------------------------------------------
-
-I'm currently working as Senior System engineer. Having hands experience on Java Spring Boot Microservices. Love working working on backend application which handles critical task. 
-
-*   🌍  I'm based in India
-*   ✉️  You can contact me at [rohitvijaysuryawanshi@gmail.com](mailto:rohitvijaysuryawanshi@gmail.com)
-*   🧠  Learning DevOps
-
-### Skills
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
+<p align="center">
+  <b>Technical Analyst turned DevOps Engineer | "Jack of all trades" in tech | Passionate about Automation, Cloud, and Kubernetes</b>
 </p>
-                    
-### Socials
-                  
-<p align="left">                       
 
-<a href="https://www.github.com/suryaadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/suryaad3v" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/suryaadev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/suryadev_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/></a>
-</p>
+---
+
+## 🚀 About Me
+
+- 🏢 **Currently:** Technical Analyst at NASDAQ India | Ex-Infosys Senior System Engineer
+- ⚡ **Transitioning from:** L2/L3 Application Support ➡️ DevOps Engineer
+- 🛠️ **Core skills:** Docker, Kubernetes, Linux, CI/CD, Infrastructure as Code (IaC), Cloud (AWS, Azure)
+- 🌱 **Learning path:** Focusing on mastering Docker & Kubernetes. Building CI/CD pipelines and automating infrastructure.
+- ✍️ **Certifications:** ITIL v4 | Microsoft AZ-900 (Azure Fundamentals) | Infosys Kubernetes Professional
+- 📣 **Fun fact:** I developed an automation tool that cut sanity testing time by 60%!
+
+---
+
+## 🧰 Tech Stack
+
+| Area                 | Tools/Tech Used                                           |
+|----------------------|----------------------------------------------------------|
+| **Languages**        | Java, Bash                                               |
+| **Scripting**        | Bash, Shell                                              |
+| **Containers**       | Docker, Kubernetes (Certified)                           |
+| **Cloud Platforms**  | AWS (EC2, S3, RDS), Azure                               |
+| **IaC/Automation**   | Terraform, Jenkins, Git, Bitbucket                      |
+| **Monitoring/Alerting** | Grafana, Prometheus, PagerDuty, Datadog, Kibana      |
+| **Deployment**       | Docker Compose, Kubernetes Deployments                   |
+| **Database**         | MySQL, PostgreSQL                                        |
+| **Incident Mgmt**    | ServiceNow, JIRA, Salesforce                            |
+
+---
+
+## 📈 Career Snapshot
+
+- Supported mission-critical financial apps at NASDAQ, managed incident bridges, and led system health tracking.
+- Led monitoring and alert integrations, reducing downtime and DRI fatigue.
+- Automated and orchestrated microservices using Docker & Kubernetes (on AWS/Azure).
+- Developed in-house tools—automation-first, reliability-centric.
+
+---
+
+## 🚧 Current Roadmap
+
+- **Networking:** Deepening knowledge of OSI/TCP, DNS, load balancers
+- **Linux:** Advanced scripting, process & permission management
+- **CI/CD:** Building robust pipelines (Jenkins, GitHub Actions)
+- **Docker/Kubernetes:** Real-world deployments, scaling, monitoring
+- **IaC:** Automating end-to-end infra with Terraform and Ansible
+
+---
+
+## 📂 Featured Projects
+
+- **Sanity Testing Automation Tool:** Automated validation of databases/APIs across applications, saving significant engineering hours.
+- **Kubernetes Microservices Orchestration:** Built scalable, fault-tolerant clusters for microservice apps.
+- **Monitoring Dashboards:** Real-time analytics via Grafana, integrated with alerting platforms.
+
+*Check out my repositories below for code samples, guides, and project documentation!*
+
+---
+
+## 📬 Get in Touch
+
+- **LinkedIn:** [rohitsuryawanshi](https://linkedin.com/in/suryaadev)
+- **GitHub:** [suryadevops](https://github.com/suryadevops) _(recommended for DevOps branding)_
+- **Email:** rohitvijaysuryawanshi@gmail.com
+
+---
+
+> _“App Support Engineer transitioning to DevOps | Automation Enthusiast | Docker & Kubernetes Learner”_
+
+---
+
+<!-- GITHUB STATS & BADGES (Optional, add if you want visual metrics)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryadevops&show_icons=true&hide=prs&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryadevops)
+-->
+
